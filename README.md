@@ -4,8 +4,6 @@ A Low-Latency Framework for Industrial Surface Anomaly Detection in Resource-con
 
 ## Steps
 
-Clone this repository:
-
 ```bash
 git clone https://github.com/SwaggyP0224/NanoAD.git
 cd NanoAD
